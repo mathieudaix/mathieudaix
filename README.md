@@ -1,9 +1,9 @@
 # hello, i'm mathieu
 a front-end creative developer from bordeaux
 
-- 🔭  I’m currently working at [kairos agency](https://www.kairos-agency.com/)
-- 🌱  I’m currently learning **webgl, reactjs**
-- 📫  How to reach me: mathieudaixpro@gmail.com
+- I’m currently working at [kairos agency](https://www.kairos-agency.com/)
+- I’m currently learning **webgl, reactjs**
+- How to reach me: mathieudaixpro@gmail.com
 
 ## tools:
 
