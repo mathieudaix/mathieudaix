@@ -1,6 +1,10 @@
 # hello, i'm mathieu
 a front-end creative developer from bordeaux
 
+- 🔭  I’m currently working at [kairos agency](https://www.kairos-agency.com/)
+- 🌱  I’m currently learning **webgl, reactjs**
+- 📫  How to reach me: mathieudaixpro@gmail.com
+
 ## tools:
 
 <img align="left" alt="visual studio code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -41,18 +45,3 @@ a front-end creative developer from bordeaux
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathieudaix&layout=compact" alt="mathieu daix github languages" />
 <img align="left" alt="mathieu daix github stats" src="https://github-readme-stats.mathieudaix.vercel.app/api?username=mathieudaix&show_icons=true" />
-
-<!--
-**mathieudaix/mathieudaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
