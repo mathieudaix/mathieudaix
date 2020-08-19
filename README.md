@@ -44,4 +44,4 @@ a front-end creative developer from bordeaux
 ## stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathieudaix&layout=compact" alt="mathieu daix github languages" />
-<img align="left" alt="mathieu daix github stats" src="https://github-readme-stats.mathieudaix.vercel.app/api?username=mathieudaix&show_icons=true" />
+<img align="left" alt="mathieu daix github stats" src="https://github-readme-stats.mathieudaix.vercel.app/api?username=mathieudaix&show_icons=true&include_all_commits=true&count_private=true" />
