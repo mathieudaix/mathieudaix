@@ -1,5 +1,5 @@
 # hello, i'm mathieu
-a front-end creative developer from bordeaux
+a front-end creative developer from bordeaux.
 
 - i’m currently working at [kairos agency](https://www.kairos-agency.com/)
 - i’m currently learning **webgl, reactjs**
